@@ -1,0 +1,15 @@
+{
+  "name": "pusher-push-notifications-react-native",
+  "version": "0.1.0",
+  "description": "Pusher Push Notifications React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/pusher/pusher-push-notifications-react-native",
+  "author": "Pusher",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^5.7.1"
+  }
+}
