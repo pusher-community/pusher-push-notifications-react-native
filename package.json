@@ -1,5 +1,5 @@
 {
-  "name": "@pusher/push-notifications-react-native",
+  "name": "@pusher/push-notifications",
   "version": "0.1.0",
   "description": "Pusher Push Notifications React Native",
   "main": "index.js",
@@ -8,8 +8,5 @@
   },
   "homepage": "https://github.com/pusher-community/pusher-push-notifications-react-native",
   "author": "Pusher",
-  "license": "MIT",
-  "dependencies": {
-    "npm": "^5.7.1"
-  }
+  "license": "MIT"
 }
